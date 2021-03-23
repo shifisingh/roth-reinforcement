@@ -1,6 +1,4 @@
 # roth-reinforcement
-general use simulator based on roth-erev reinforcement learning
-ReadMe
 
 Exceptions to the entering of inputs remain largely unchecked so it is important that numbers are entered in the correct format. 
 
