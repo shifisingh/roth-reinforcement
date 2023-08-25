@@ -1,3 +1,5 @@
+# Roth-Erev Model 
+
 ## Authors
 Alexander Jordan and Shefali Singh, with assistance from Prof. Rory Smead of Northeastern University. 
 
@@ -5,7 +7,7 @@ Alexander Jordan and Shefali Singh, with assistance from Prof. Rory Smead of Nor
 This project served as a way to implement the insights from the Roth-Erev model of reinforcement learning into an actual model. It was inspired by coursework 
 in Ethics and Evolutionary Game Theory, PHIL2001. 
 
-# Notes 
+## Notes 
 Exceptions to the entering of inputs remain largely unchecked so it is important that numbers are entered in the correct format. 
 
 The error rate and discount rate should be entered as decimals, any level of precision is acceptable.
